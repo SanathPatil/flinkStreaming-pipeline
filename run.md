@@ -10,8 +10,3 @@
 
 
 - runs start_job.py flink job to enter data to postgres
-
-
-
-##### Note:
-read on tumbling, sliding, session windows
